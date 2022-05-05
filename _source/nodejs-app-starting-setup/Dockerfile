@@ -1,7 +1,7 @@
 # Start from image of node
 FROM node
 
-WORKDIR /apt
+WORKDIR /app
 
 COPY . /app
 
